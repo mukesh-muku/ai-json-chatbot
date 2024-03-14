@@ -1,0 +1,33 @@
+{
+    "bpo": [
+        {
+            "Services": "Eduction",
+            "Product": "Inbound"
+        },
+        {
+            "Services": "Finance",
+            "Product": "Outbound"
+        },
+        {
+            "Services": "Government",
+            "Product": "Cloud"
+        }
+
+
+    ],
+    "software": [
+        {
+            "Services": "Travel",
+            "Product": "CRM"
+        },
+        {
+            "Services": "Healthcare",
+            "Product": "IVR"
+        },
+        {
+            "Services": "Telecommunication",
+            "Product": "Chatbot"
+        }
+
+    ]
+}
